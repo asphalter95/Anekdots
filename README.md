@@ -85,7 +85,7 @@ Anekdots/
     }
 }
 ```
-
+![alt text](image-1.png)
 Если нужно протестировать модель MLM, нужно замаскировать токены и передать с task:0. Пример:
 ```python
 {"anekdot": [
@@ -110,7 +110,7 @@ Anekdots/
     "Сегодня по телевизору опять покажут новый ['сезон', 'год', 'новый', 'альбом']"
 ]
 ```
-
+![alt text](image.png)
 Параметры моделей
 Base model: Transformer_mix
 Fine-tuning dataset: m18_jokes_dataset.csv
