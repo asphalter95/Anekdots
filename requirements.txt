@@ -9,3 +9,5 @@ tqdm
 dill
 uvicorn==0.34.0
 transformers==4.41.2
+pymorphy3
+nltk
